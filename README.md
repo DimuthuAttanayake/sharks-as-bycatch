@@ -1,14 +1,14 @@
-# America's cheese divide: Walmart vs Whole Foods
+# When sharks become intentional bycatch
 
 This is a project for [Data Studio](https://journalism.columbia.edu/ms-data-journalism), Spring 2026.
 
 This project analyses the dataset on sharks bycatch from [Worm, Boris et al. (2024)](https://datadryad.org/dataset/doi:10.25349/D9JK6N#readme) to understand what happens to sharks caught "unintentionally" by fishers, and whether their habitats have an influnce on the outcome. 
 
-**Project page:** [https://dimuthuattanayake.github.io/sharks-as-bycatch/](https://dimuthuattanayake.github.io/sharks-as-bycatch/)
+**Project page:** [sharks-as-bycatch](https://dimuthuattanayake.github.io/sharks-as-bycatch/)
 
 ## Methodology
 
-Find in [Analysis](https://github.com/DimuthuAttanayake/sharks-as-bycatch/blob/main/Analysis.ipynb))
+Find in [Analysis](https://github.com/DimuthuAttanayake/sharks-as-bycatch/blob/main/Analysis.ipynb)
 
 ### Data collection and cleaning
 
