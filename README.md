@@ -36,8 +36,8 @@ Find in [Analysis](https://github.com/DimuthuAttanayake/sharks-as-bycatch/blob/m
 
 ## New Skills
 
-* Analysing biodiversity datasets. It's way more complex than I imagined and I have a along way to go
-* Using coding for analysis
+* Analysing biodiversity datasets. It's way more complex than I imagined
+* Using coding for analysis: because it's so complex I used for Claude for some of it and I have a long way to go before doing this kind of analysis antirely on my own
 * Building my first stacked bar chart in Datawrapper
   
 
